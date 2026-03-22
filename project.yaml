@@ -20,9 +20,7 @@ repositories:
 
 website: "https://k8up.io/"
 
-artwork:
-  horizontal: "https://github.com/cncf/artwork/blob/main/projects/k8up/horizontal/color/k8up-horizontal-color.svg"
-  icon: "https://github.com/cncf/artwork/blob/main/projects/k8up/icon/k8up-icon-color.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/k8up"
 
 adopters:
   path: "https://github.com/k8up-io/k8up/blob/master/ADOPTERS.md"
