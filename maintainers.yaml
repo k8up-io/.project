@@ -1,0 +1,15 @@
+# Maintainer roster for K8up
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+maintainers:
+  - project_id: "k8up"
+    org: "k8up-io"
+    teams:
+      - name: "Maintainer"
+        members:
+          - bastjan
+          - tobru
+          - Kidswiss
+          - TheBigLee
+          - zugao
+          - lieneluksika

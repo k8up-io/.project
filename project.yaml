@@ -1,0 +1,57 @@
+# .project metadata for K8up
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+schema_version: "1.0.0"
+slug: "k8up"
+name: "K8up"
+description: "Kubernetes and OpenShift Backup Operator"
+type: "project"
+# TODO: Set project lead GitHub handle
+# project_lead: "github-handle"
+cncf_slack_channel: "#k8up"
+
+maturity_log:
+  - phase: "sandbox"
+    date: "2021-11-16T00:00:00Z"
+    issue: "https://github.com/cncf/sandbox/issues/225"
+
+repositories:
+  - "https://github.com/k8up-io/k8up"
+
+website: "https://k8up.io/"
+
+artwork:
+  horizontal: "https://github.com/cncf/artwork/blob/main/projects/k8up/horizontal/color/k8up-horizontal-color.svg"
+  icon: "https://github.com/cncf/artwork/blob/main/projects/k8up/icon/k8up-icon-color.svg"
+
+adopters:
+  path: "https://github.com/k8up-io/k8up/blob/master/ADOPTERS.md"
+
+package_managers:
+  helm: "https://k8up-io.github.io/k8up"
+
+security:
+  contact:
+    advisory_url: "https://github.com/k8up-io/k8up/security/advisories/new"
+
+governance:
+  code_of_conduct:
+    path: "https://github.com/k8up-io/k8up/blob/master/CODE_OF_CONDUCT.md"
+
+legal:
+  license:
+    path: "https://github.com/k8up-io/k8up/blob/master/LICENSE"
+  identity_type:
+    has_dco: true
+    has_cla: false
+    dco_url:
+      path: "https://developercertificate.org/"
+
+documentation:
+  readme:
+    path: "https://github.com/k8up-io/k8up/blob/master/README.md"
+
+landscape:
+  category: "Runtime"
+  subcategory: "Cloud Native Storage"
+
