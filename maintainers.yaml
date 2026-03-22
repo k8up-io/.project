@@ -5,7 +5,7 @@ maintainers:
   - project_id: "k8up"
     org: "k8up-io"
     teams:
-      - name: "Maintainer"
+      - name: "project-maintainers"
         members:
           - bastjan
           - tobru
