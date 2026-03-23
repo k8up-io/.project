@@ -6,8 +6,7 @@ slug: "k8up"
 name: "K8up"
 description: "Kubernetes and OpenShift Backup Operator"
 type: "project"
-# TODO: Set project lead GitHub handle
-# project_lead: "github-handle"
+project_lead: "k8up-io/maintainer"
 cncf_slack_channel: "#k8up"
 
 maturity_log:
