@@ -7,7 +7,9 @@ name: "K8up"
 description: "Kubernetes and OpenShift Backup Operator"
 type: "project"
 project_lead: "k8up-io/maintainer"
-cncf_slack_channel: "#k8up"
+slack_channels:
+  - name: "#k8up"
+    primary: true
 
 maturity_log:
   - phase: "sandbox"
