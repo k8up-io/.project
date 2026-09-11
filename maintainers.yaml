@@ -7,9 +7,8 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - bastjan
           - tobru
           - Kidswiss
           - TheBigLee
+          - wejdross
           - zugao
-          - lieneluksika
